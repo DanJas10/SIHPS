@@ -44,5 +44,7 @@ Ministry of Environment
 
 ## Dependencies
 Mapping Services – 7 to 10 Days
+
 Data Collection – 10 to 14 Days
+
 Estimated Budget – Rs. 15,000 to Rs. 25,000
