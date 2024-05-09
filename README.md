@@ -34,6 +34,7 @@ Ministry of Environment
 
 ## Technology Stack
 ![328816187-203a7df5-f41c-4f02-9688-1db7f34e32b6](https://github.com/DanJas10/SIHPS/assets/150931233/a9dee1b0-5cc1-4e51-a43c-6ea846b061fe)
+
 1.Frontend Development: HTML/CSS: For structuring and styling the website. JavaScript: For client-side interactivity and functionality. React.js or Angular.js: Popular frontend frameworks for building dynamic user interfaces. Mapping Library (e.g., Google Maps API): For displaying the locations of e-waste facilities on a map.
 2.Backend Development: Server-side Language (e.g., Node.js, Python): For handling server-side logic. Express.js (for Node.js) or Flask/Django (for Python): Lightweight web frameworks for building server-side applications. Database (e.g., MongoDB, PostgreSQL): For storing information about e-waste facilities and user data. Geocoding API (e.g., Google Geocoding API): To convert addresses into geographic coordinates for mapping purposes.
 3.APIs and External Services: E-Waste Facility Data API: If available, you may integrate with an existing API that provides data on e-waste facilities. Geolocation API: For retrieving the user's location to provide personalized results.
